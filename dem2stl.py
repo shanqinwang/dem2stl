@@ -11,7 +11,6 @@ from osgeo import gdal
 import math
 import decimal
 
-import matplotlib.pyplot as plt
 
 from concavehull import ConcaveHull
 

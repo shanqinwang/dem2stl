@@ -13,9 +13,7 @@ along with ConcaveHull.py.  If not, see <http://www.gnu.org/licenses/>.
 '''
 
 import bisect
-from collections import OrderedDict
-import math
-# import numpy as np
+
 import matplotlib.tri as tri
 from shapely.geometry import LineString
 from shapely.geometry import Polygon
